@@ -1,5 +1,5 @@
 
-# Covid-19 Hospital API
+# Hospital API
 
 An API created using NodeJS for the doctors of a hospital to cater to the need of the healthcare system during Covid-19.
 Tech Stack: Node.js,Postman & Mongo DB
