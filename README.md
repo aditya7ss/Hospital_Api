@@ -4,6 +4,10 @@
 An API created using NodeJS for the doctors of a hospital to cater to the need of the healthcare system during Covid-19.
 Tech Stack: Node.js,Postman & Mongo DB
 
+
+## Root Hosted Link - 
+https://hospital-api-6xfd.onrender.com
+
 ## Theme
  Task
  - Theme:
@@ -55,7 +59,6 @@ Start the server
   
 ## Documentation
 
-Root Hosted Link - 
 
 Routes :
 
